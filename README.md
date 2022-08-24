@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there <a href="https://www.instagram.com/jayveersinh_raj/" target="_blank" rel="noreferrer"> <img src="https://media2.giphy.com/media/JZcBG7iOpuN7LnArcv/200w.webp?cid=ecf05e47npo03wxgakvj997t9exebzioo3mcn5psgrr01p28&rid=200w.webp&ct=s" alt="instagram" width="60" height="60"/></a>
 
-✨ I am `Jayveersinh Raj`, but you can call me `Raj` <a href="https://www.instagram.com/jayveersinh_raj/" target="_blank" rel="noreferrer"> <img src="https://media3.giphy.com/media/DTuTMRAQ4EVGBbtpkg/200w.webp?cid=ecf05e473e16grvtll75c4848eqoc600jiz9bsw86vsh90dx&rid=200w.webp&ct=s" alt="instagram" width="50" height="50"/></a>✨
+✨ I am `Jayveersinh Raj`, but you can call me `Raj` ✨
 
 
 - 🔭 I’m a very curious and passionate ML/DL Engineer
@@ -10,9 +10,12 @@
 - 💬 Ask me about anything about ML/DL, I am a very enthusiatic communicator
 - 📫 How to reach me: 👆 Click on the icons below on which you want to reach out
 
- <a href="https://www.instagram.com/jayveersinh_raj/" target="_blank" rel="noreferrer"> <img src="https://media4.giphy.com/media/eTtXHP8CyQHHa4M8EM/200w.webp?cid=ecf05e47w70y4ti9kcbgc0d174dub29rv6s4yhuhbh00709m&rid=200w.webp&ct=s" alt="instagram" width="50" height="50"/></a>   &nbsp;   <a href="https://t.me/Jayveersinh_Raj" target="_blank" rel="noreferrer"> <img src="https://c.tenor.com/s-XyqNCtw7QAAAAi/telegram.gif" alt="telegram" width="50" height="50"/></a> &nbsp; <a href="https://jayveersinhraj53@gmail.com" target="_blank" rel="noreferrer"> <img src="https://media4.giphy.com/media/KxlbRn0HuTW7gZID83/giphy.webp?cid=ecf05e478tpxg3xdjlmb9f8nptfokgkhk2v6kfmfxnrj8n5g&rid=giphy.webp&ct=s" alt="mail" width="60" height="60"/></a>
+ <a href="https://www.instagram.com/jayveersinh_raj/" target="_blank" rel="noreferrer"> <img src="https://media4.giphy.com/media/eTtXHP8CyQHHa4M8EM/200w.webp?cid=ecf05e47w70y4ti9kcbgc0d174dub29rv6s4yhuhbh00709m&rid=200w.webp&ct=s" alt="instagram" width="50" height="50"/></a>   &nbsp;   <a href="https://t.me/Jayveersinh_Raj" target="_blank" rel="noreferrer"> <img src="https://c.tenor.com/s-XyqNCtw7QAAAAi/telegram.gif" alt="telegram" width="50" height="50"/></a> &nbsp; <a href="https://jayveersinhraj53@gmail.com" target="_blank" rel="noreferrer"> <img src="https://media4.giphy.com/media/KxlbRn0HuTW7gZID83/giphy.webp?cid=ecf05e478tpxg3xdjlmb9f8nptfokgkhk2v6kfmfxnrj8n5g&rid=giphy.webp&ct=s" alt="mail" width="60" height="60"/></a> 
       
-- ⚡ Fun fact: I love pokemons, and I play Pokemon Go sometimes, please contact me if you too love Pokemons <a href="https://www.instagram.com/jayveersinh_raj/" target="_blank" rel="noreferrer"> <img src="https://media1.giphy.com/media/31vamYdZV5ISQ/200w.webp?cid=ecf05e473e16grvtll75c4848eqoc600jiz9bsw86vsh90dx&rid=200w.webp&ct=s" alt="instagram" width="50" height="50"/></a>
+- ⚡ Fun fact: I love pokemons, and I play Pokemon Go sometimes, please contact me if you too love Pokemons
+
+<a href="https://www.instagram.com/jayveersinh_raj/" target="_blank" rel="noreferrer"> <img src="https://media1.giphy.com/media/31vamYdZV5ISQ/200w.webp?cid=ecf05e473e16grvtll75c4848eqoc600jiz9bsw86vsh90dx&rid=200w.webp&ct=s" alt="instagram" width="60" height="60"/></a> <a href="https://www.instagram.com/jayveersinh_raj/" target="_blank" rel="noreferrer"> <img src="https://media3.giphy.com/media/2y0bDtmlrJtg4/200w.webp?cid=ecf05e47z8d2ykv11gzensd4956oz62g1lsc5uolcwtz336l&rid=200w.webp&ct=s" alt="instagram" width="60" height="60"/></a> <a href="https://www.instagram.com/jayveersinh_raj/" target="_blank" rel="noreferrer"> <img src="https://media4.giphy.com/media/EpnNFYpmzuPZvu4VBp/200w.webp?cid=ecf05e47a1kjwllc1cocji28er3moqjfimt4pxa1sbw0r8g0&rid=200w.webp&ct=s" alt="instagram" width="60" height="60"/></a> <a href="https://www.instagram.com/jayveersinh_raj/" target="_blank" rel="noreferrer"> <img src="<a href="https://www.instagram.com/jayveersinh_raj/" target="_blank" rel="noreferrer"> <img src="https://media1.giphy.com/media/31vamYdZV5ISQ/200w.webp?cid=ecf05e473e16grvtll75c4848eqoc600jiz9bsw86vsh90dx&rid=200w.webp&ct=s" alt="instagram" width="60" height="60"/></a>" alt="instagram" width="60" height="60"/></a>
+
 
 
 ### Some of the Languages and Tools I know:
