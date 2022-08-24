@@ -41,7 +41,7 @@
 <br>
 
 ## 🏛️ University
- <a href="https://www.instagram.com/jayveersinh_raj/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/69463767/186536698-346a6c35-a42f-4726-9377-94d56e92b1ec.png" alt="instagram" width="60" height="60"/></a><br>
+ <a href="https://innopolis.university/en/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/69463767/186536698-346a6c35-a42f-4726-9377-94d56e92b1ec.png" alt="IU" width="60" height="60"/></a><br>
  Innopolis University, Tatarstan, Russia  
 
 <br>
