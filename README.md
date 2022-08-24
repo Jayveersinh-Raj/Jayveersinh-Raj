@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-✨ I am Jayveersinh Raj, but you can call me Raj ✨
+✨ I am `Jayveersinh Raj`, but you can call me Raj ✨
 
 
 - 🔭 I’m a very curious and passionate ML/DL Engineer
