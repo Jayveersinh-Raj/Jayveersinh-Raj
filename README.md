@@ -36,7 +36,7 @@
 <br>
 
 ## 📖 Education 
- Bachelors 3rd year Data Science Majors
+ Bachelors 3rd year Data Science Majors & AI
  
 <br>
 <br>
