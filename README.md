@@ -50,7 +50,7 @@
 <br>
 <br>
  
- ## 💻 Some of the big Projects undertaken
+ ## 💻 Some of the big projects undertaken
   1. IOT based anamoly detection
   2. Diaster prediction with NLP
   3. Console based AI bot
