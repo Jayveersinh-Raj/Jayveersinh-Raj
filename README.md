@@ -55,5 +55,6 @@
   2. Diaster prediction with NLP
   3. Console based AI bot
   4. Backend developer for IT department of Innopolis University
-  5. NLP based settleable cases detector (net based consumer court)(ongoing)
-  6. Computer vision based smart city security, detecting people gathering or threat (ongoing)
+  5. Cross lingual zero shot transfer (toxicity -> done working on other derivatives) being trained on singular language data like English,can infer on any arbitrary language.
+  6. Cognizant virtual internship in AI (March 2023) 
+  7. Timing attack bases on Evolutionary algorithms (Proof of concept) 
