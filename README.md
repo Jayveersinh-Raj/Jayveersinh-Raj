@@ -50,11 +50,28 @@
 <br>
 <br>
  
- ## 💻 Some of the big projects undertaken
+ # 💻 Some of the big projects undertaken and experience
+ ## Machine learningn and AI
   1. IOT based anomaly detection
-  2. Diaster prediction with NLP
   3. Console based AI bot
   4. Backend developer for IT department of Innopolis University
-  5. Cross lingual zero shot transfer (toxicity -> done working on other derivatives) being trained on singular language data like English,can infer on any arbitrary language.
-  6. Cognizant virtual internship in AI (March 2023) 
-  7. Timing attack bases on Evolutionary algorithms (Proof of concept) 
+  5. Cognizant virtual internship in AI (March 2023) 
+  6. Timing attack bases on Evolutionary algorithms (Proof of concept) 
+  7. Spice Company scheduling optimization
+  8. Tennis tournmanet betting company forecasting for betting company in data mining
+  9. Ratings forecasting for airbnb and similar companies.
+
+## Natural Language 
+  1. Diaster detection with NLP on news and tweets
+  2. Creating a natural language preprocessing pipeline for the autoML library Tpot that uses genetic programming.
+  3. Cross lingual zero shot transfer (toxicity -> done working on other derivatives) being trained on singular language data like English, can infer on any arbitrary language.
+  4. Gujarati Grammarly (Grammarly for low resource language)
+  5. Vector space aligner for Sanskrit for there are non existing vector space aligner for this low resource ancient language.
+  6. Using langchain for agents, prompt engineering, using vector databases to eliminate retraing of LLMs
+  7. Working knowledge of various alternatives of fine tuning LLMs.
+  8. Code generation/analysis research using LLMs with Advanced Engineering School (AES)
+
+## Computer Vision
+1. Bounding box object detection using detectron2, and yolov8 while annotating from roboflow
+2. Segmentation using detectron2, and yolov8 while annotating from roboflow
+3. Digits recognition from triple-mnist custom datatset
