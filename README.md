@@ -64,7 +64,7 @@
 ## Natural Language 
   1. Diaster detection with NLP on news and tweets
   2. Creating a natural language preprocessing pipeline for the autoML library Tpot that uses genetic programming.
-  3. Cross lingual zero shot transfer (toxicity -> done working on other derivatives) being trained on singular language data like English, can infer on any arbitrary language.
+  3. Cross lingual zero shot transfer (toxicity &rarr; done working on other derivatives) being trained on singular language data like English, can infer on any arbitrary language.
   4. Gujarati Grammarly (Grammarly for low resource language)
   5. Vector space aligner for Sanskrit for there are non existing vector space aligner for this low resource ancient language.
   6. Using langchain for agents, prompt engineering, using vector databases to eliminate retraing of LLMs
