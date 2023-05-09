@@ -22,7 +22,7 @@
 
 ## 👆 My portfolio wesbite: 
 
-<a href="jayveersinh-raj.github.io" target="_blank" rel="noreferrer"> <img src="https://media2.giphy.com/media/YULPJoecGetvtOm1H0/giphy.gif?cid=ecf05e47j3nzhrs4bckt9i0g1p4a68un5d825yuotmuh02sd&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="instagram" width="50" height="50"/></a>
+<a href="https://www.jayveersinh-raj.github.io" target="_blank" rel="noreferrer"> <img src="https://media2.giphy.com/media/YULPJoecGetvtOm1H0/giphy.gif?cid=ecf05e47j3nzhrs4bckt9i0g1p4a68un5d825yuotmuh02sd&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="instagram" width="50" height="50"/></a>
 
 <br>
 <br>
