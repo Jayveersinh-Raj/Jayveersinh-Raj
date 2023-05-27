@@ -3,9 +3,9 @@
 ✨ I am `Jayveersinh Raj`, but you can call me `Raj` ✨
 
 
-- 🔭 I’m a very curious and passionate ML/DL Engineer
-- 🌱 I’m currently working to be an expert in TensorFlow
-- 👯 I’m looking to collaborate on ML/DL based ideas
+- 🔭 I’m a very curious and passionate ML/DL Engineer.
+- 🌱 I’m mostly an NLP practitioner with experience in language models. 
+- 👯 I’m very passionate and up-to-date with the large language models field. 
 - 🤔 I’m also researching and working on Quantum Machine learning.
 - 💬 Ask me anything about ML/DL, I am a very enthusiatic communicator
 - 📫 How to reach me: 👆 Click on the icons below on which you want to reach out
