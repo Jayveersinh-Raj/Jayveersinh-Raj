@@ -49,7 +49,7 @@
 <br>
 
 ## 📖 Education 
- Bachelors 3rd year, Majors: Data Science & AI
+ Bachelors 4th year, Majors: Data Science & AI
  
 <br>
 <br>
