@@ -7,7 +7,7 @@
 - 🌱 I’m mostly an NLP practitioner with experience in language models. 
 - 👯 I’m very passionate and up-to-date with the large language models field. 
 - 🤔 I’m also researching and working on Quantum Machine learning.
-- 💬 Ask me anything about ML/DL, I am a very enthusiatic communicator
+- 💬 Ask me anything about ML/DL, I am a very enthusiastic communicator
 - 📫 How to reach me: 👆 Click on the icons below on which you want to reach out
 
  <a href="https://www.instagram.com/jayveersinh_raj/" target="_blank" rel="noreferrer"> <img src="https://media4.giphy.com/media/eTtXHP8CyQHHa4M8EM/200w.webp?cid=ecf05e47w70y4ti9kcbgc0d174dub29rv6s4yhuhbh00709m&rid=200w.webp&ct=s" alt="instagram" width="50" height="50"/></a>   &nbsp;   <a href="https://t.me/Jayveersinh_Raj" target="_blank" rel="noreferrer"> <img src="https://c.tenor.com/s-XyqNCtw7QAAAAi/telegram.gif" alt="telegram" width="50" height="50"/></a> &nbsp; <a href="mailto:jayveersinhraj53@gmail.com" target="_blank" rel="noreferrer"> <img src="https://media4.giphy.com/media/KxlbRn0HuTW7gZID83/giphy.webp?cid=ecf05e478tpxg3xdjlmb9f8nptfokgkhk2v6kfmfxnrj8n5g&rid=giphy.webp&ct=s" alt="mail" width="60" height="60"/></a> <a href="https://www.facebook.com/jayveersinh.raj.96/" target="_blank" rel="noreferrer"> <img src="https://media3.giphy.com/media/uxPlGvoc1TlgPF0deH/200w.webp?cid=ecf05e47z5k3a32t04ano55a5ulic1ictlezlo8raya2l9h4&rid=200w.webp&ct=s" alt="facebook" width="50" height="50"/></a> 
@@ -20,7 +20,7 @@
 <br>
 <br>
 
-## 👆 My portfolio wesbite: 
+## 👆 My portfolio website: 
 
 <a href="https://jayveersinh-raj.github.io/" target="_blank" rel="noreferrer"> <img src="https://media2.giphy.com/media/YULPJoecGetvtOm1H0/giphy.gif?cid=ecf05e47j3nzhrs4bckt9i0g1p4a68un5d825yuotmuh02sd&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="instagram" width="50" height="50"/></a>
 
@@ -64,23 +64,23 @@
 <br>
  
  # 💻 Some of the big projects undertaken and experience
- ## Machine learningn and AI
-  1. IOT based anomaly detection
-  3. Console based AI bot
+ ## Machine learning and AI
+  1. IOT-based anomaly detection
+  3. Console-based AI bot
   4. Backend developer for IT department of Innopolis University
   5. Cognizant virtual internship in AI (March 2023) 
-  6. Timing attack bases on Evolutionary algorithms (Proof of concept) 
+  6. Timing attack based on Evolutionary algorithms (Proof of concept) 
   7. Spice Company scheduling optimization
-  8. Tennis tournmanet betting company forecasting for betting company in data mining
+  8. Tennis tournament betting company forecasting for betting company in data mining
   9. Ratings forecasting for airbnb and similar companies.
 
 ## Natural Language 
   1. Diaster detection with NLP on news and tweets
   2. Creating a natural language preprocessing pipeline for the autoML library Tpot that uses genetic programming.
-  3. Cross lingual zero shot transfer (toxicity &rarr; done working on other derivatives) being trained on singular language data like English, can infer on any arbitrary language.
-  4. Gujarati Grammarly (Grammarly for low resource language)
-  5. Vector space aligner for Sanskrit for there are non existing vector space aligner for this low resource ancient language.
-  6. Using langchain for agents, prompt engineering, using vector databases to eliminate retraing of LLMs
+  3. Cross lingual zero-shot transfer (toxicity &rarr; done working on other derivatives) being trained on singular language data like English, can infer on any arbitrary language.
+  4. Gujarati Grammarly (Grammarly for low-resource language)
+  5. Vector space aligner for Sanskrit for there are nonexisting vector space aligner for this low-resource ancient language.
+  6. Using langchain for agents, prompt engineering, using vector databases to eliminate retraining of LLMs
   7. Working knowledge of various alternatives of fine tuning LLMs.
   8. Code generation/analysis research using LLMs with Advanced Engineering School (AES)
 
